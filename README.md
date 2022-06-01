@@ -12,3 +12,4 @@ The Algorithm repository that solves with java
 3. Two pointers, Sliding window
 4. HashMap, TreeSet (해쉬, 정렬지원 Set)
 5. Stack, Queue(자료구조)
+6. Sorting and Searching(정렬, 이분검색과 결정알고리즘)
